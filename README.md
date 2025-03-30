@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirul Chauhan</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
-
+<img align="right" alt="Coding" width= "400" src=" https://www.google.com/search?q=animated+coding+gif&oq=animated+coding&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCQgBEEUYORiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQIRiPAjIHCA0QIRiPAtIBCDExMjdqMGo3qAIUsAIB8QVuJAV0NF5LO_EFbiQFdDReSzs&client=ms-android-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8#vhid=zhjSEq0Xd_DH7M&vssid=_qxzpZ66-JqyZnesPpuWL6AE_36" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirul-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="nirul-chauhan" /> </p>
 
 - 🌱 I’m currently learning **B.Sc(Hons)Computer science**

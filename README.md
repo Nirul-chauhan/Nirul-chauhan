@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **B.Sc(Hons)Computer science**
 
-- 👯 I’m looking to collaborate on [Generate Quiz Text](https://nirul-chauhan.github.io/quiz-Text/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nirul-chauhan](https://github.com/Nirul-chauhan)
 
 - 📫 How to reach me **nirulchauahn9045@gmail.com**

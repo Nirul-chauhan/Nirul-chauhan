@@ -22,10 +22,8 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=MongoDB&logoColor=green)&nbsp;
 
 #### Tools and Technologies
 
@@ -44,7 +42,7 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />][https://www.linkedin.com/in/nirul-chauhan-570a842a2](https://www.linkedin.com/in/nirul-chauhan-570a842a2)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nirul-chauhan-570a842a2/)
 
 </p>
 

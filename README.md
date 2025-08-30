@@ -22,11 +22,10 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-logoColor=white)&nbsp;
+
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-logoColor=white)&nbsp;
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
@@ -68,7 +67,8 @@ logoColor=white)&nbsp;
 </div>
 
 ### GitHub Trophies
-<!-- 
+
+<!--
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=tinku-258&theme=onedark&column=4" margin="50px" alt="Top Languages" width="48%">
 </div> -->

@@ -47,11 +47,14 @@
 
 </p>
 
-### Leetcode Stats
+### Leetcode Profile
 
-<div>
-  <img src="https://leetcode.com/u/Nirul_tmu/" alt="GitHub Stats" width="80%" margin="50px">
-</div>
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]([https://www.linkedin.com/in/nirul-chauhan-570a842a2/](https://leetcode.com/u/Nirul_tmu/))
+
+</p>
 
 ### GitHub Stats
 

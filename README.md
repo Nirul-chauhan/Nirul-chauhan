@@ -9,7 +9,7 @@
 ![HTML](https://img.shields.io/badge/HTML-ff5733?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-254bdd?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React Js](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=blue-green)&nbsp;
+![React Js](https://img.shields.io/badge/JReactJs-f7df1e?style=for-the-badge&logo=javascript&logoColor=blue-green)&nbsp;
 
 <!--#### ML/DL
 

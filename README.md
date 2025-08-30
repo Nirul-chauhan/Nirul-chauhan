@@ -52,7 +52,7 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]([https://www.linkedin.com/in/nirul-chauhan-570a842a2/](https://leetcode.com/u/Nirul_tmu/))
+[<img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]((https://leetcode.com/u/Nirul_tmu/))]
 
 </p>
 

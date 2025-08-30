@@ -1,28 +1,74 @@
-<h1 align="center">Hi 👋, I'm Nirul Chauhan</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
-<img align="right" alt="Coding" width= "400" src=" https://www.google.com/search?q=animated+coding+gif&oq=animated+coding&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCQgBEEUYORiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQIRiPAjIHCA0QIRiPAtIBCDExMjdqMGo3qAIUsAIB8QVuJAV0NF5LO_EFbiQFdDReSzs&client=ms-android-xiaomi-rvo2&sourceid=chrome-mobile&ie=UTF-8#vhid=zhjSEq0Xd_DH7M&vssid=_qxzpZ66-JqyZnesPpuWL6AE_36" 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirul-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="nirul-chauhan" /> </p>
+# Hi there, I'm Nirul chauhan👋
 
-- 🌱 I’m currently learning **B.Sc(Hons)Computer science**
+## Skills:
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nirul-chauhan](https://github.com/Nirul-chauhan)
+#### Languages:
 
-- 📫 How to reach me **nirulchauahn9045@gmail.com**
+![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-ff5733?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-254bdd?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-- ⚡ Fun fact **I'm funny🤗**
+<!--#### ML/DL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nirul chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirul chauhan" height="30" width="40" /></a>
-<a href="https://fb.com/nirul chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirul chauhan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nirulchauhan9045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nirulchauhan9045" height="30" width="40" /></a>
+![Langchain](https://img.shields.io/badge/Langchain-FF6F00?style=for-the-badge&logo=Langchain&logoColor=white)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-%23F7931E.svg?style=for-the-badge&logo=NLP&logoColor=white)&nbsp;
+![Vicuna](https://img.shields.io/badge/Vicuna-005571?style=for-the-badge&logo=Vicuna)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)-->
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+logoColor=white)&nbsp;
+
+#### Tools and Technologies
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/GITHUB-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
+
+#### IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%2311AB00.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />][https://www.linkedin.com/in/nirul-chauhan-570a842a2](https://www.linkedin.com/in/nirul-chauhan-570a842a2)
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### Leetcode Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirul-chauhan&show_icons=true&locale=en&layout=compact" alt="nirul-chauhan" /></p>
+<div>
+  <img src="https://leetcode.com/u/Nirul_tmu/" alt="GitHub Stats" width="80%" margin="50px">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirul-chauhan&show_icons=true&locale=en" alt="nirul-chauhan" /></p>
+### GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirul-chauhan&" alt="nirul-chauhan" /></p>
+<div>
+  <img src="https://camo.githubusercontent.com/cdfdff102d23b9aaa330cdfca319880de5147cb9204db7e5aa779b8d9f324aab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e6972756c2d6368617568616e2673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="GitHub Stats" width="60%" margin="50px">
+</div>
+<div>
+  <img src="https://camo.githubusercontent.com/f9389ad265f8dd199f61c0bb3af7204d633c798f98caeb5ec8566ff1227e088b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6e6972756c2d6368617568616e2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" margin="50px" alt="Top Languages" width="60%">
+</div>
+<div>
+  <img src="https://camo.githubusercontent.com/86ffc31f922c4547f78966944caf65f0daed265586f9a6531b281535ffe4f019/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e6972756c2d6368617568616e26" margin="50px" alt="Top Languages" width="60%">
+</div>
+
+### GitHub Trophies
+<!-- 
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=tinku-258&theme=onedark&column=4" margin="50px" alt="Top Languages" width="48%">
+</div> -->
